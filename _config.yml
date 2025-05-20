@@ -22,14 +22,14 @@ repository               : "https://github.com/DhamiHS/harishsinghdhami.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Dhami_PicReducedSize.jpg"
   name             : "Harish Singh Dhami"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc"
+  location         : "West Lafayette"
+  employer         : "Purdue University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dhamih@purdue.edu" 
 
   # Academic websites
   academia         : # URL
