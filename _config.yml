@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Harish's webpage"
+site_theme               : "default"
 title                    : "harish_dhami"
 title_separator          : "-"
 name                     : &name "Harish Singh Dhami"
