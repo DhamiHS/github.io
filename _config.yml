@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Dhami-photo.jpg"
+  avatar           : "images/themes/Dhami-photo.jpg"
   name             : "Harish Singh Dhami"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
