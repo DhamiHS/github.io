@@ -219,7 +219,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/HSD_ListOfPublications.pdf
   portfolio:
     output: true
     permalink: /:collection/:path/
